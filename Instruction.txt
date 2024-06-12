@@ -1,0 +1,12 @@
+	Red -> r
+	Orange -> o
+	Yellow -> y
+	Green -> g
+	Blue -> b
+	Purple -> p
+	Pink -> k
+	White -> w
+	Black -> h
+	Grey -> l
+	Exit -> q
+
